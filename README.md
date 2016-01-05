@@ -2,6 +2,6 @@ Zirui's Learning App
 ---
 
 
-#About
+#About git learning 
 
 Stuff about learning git
